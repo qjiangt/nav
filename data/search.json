@@ -1,7 +1,7 @@
 [
   {
     "name": "站内",
-    "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/logo.png",
+    "icon": "https://cdn.jsdelivr.net/gh/qjiangt/nav@image/nav-1652710209846-搜索_search.png",
     "placeholder": "站内搜索",
     "blocked": false,
     "isInner": true
@@ -25,7 +25,7 @@
     "name": "必应",
     "url": "https://cn.bing.com/search?q=",
     "icon": "https://raw.sevencdn.com/xjh22222228/nav/image/bing.svg",
-    "blocked": false,
+    "blocked": true,
     "isInner": false
   },
   {
